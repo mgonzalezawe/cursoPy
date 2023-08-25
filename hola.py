@@ -1,1 +1,2 @@
-print ("Hola mundo")
+print ("hola mundos")
+print ("mg")
