@@ -30,13 +30,13 @@ else:
     """
     
 #while
-num = int (input('ingrese un numero: '))
+"""num = int (input('ingrese un numero: '))
 cont = 1
 suma = 0
 while cont <= num:
     suma += cont
     cont += 1
-print(suma)
+print(suma)"""
 
 
 #MOSTRAR EL NUMERO MENOR DE N NUMEROS INGRESADOS
@@ -51,3 +51,13 @@ while(i <= n):
         menor = numero
     i += 1
 print (f'El numero menor es: {menor}')"""
+
+"""palabras = ['Gato', 'León', 'Avión', 'Auto']
+for p in palabras:
+    print(p, len(p))"""
+    
+"""for i in range(5):
+    print(i+10)"""
+
+Lista = list(range(0,20,3))
+print(Lista)
