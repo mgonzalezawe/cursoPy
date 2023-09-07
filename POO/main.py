@@ -1,4 +1,3 @@
-from poo import Persona
 from player import Player
 
 
