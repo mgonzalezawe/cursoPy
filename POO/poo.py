@@ -9,3 +9,4 @@ class Persona:
         print('Edad: ', self.edad)
         print('Telefono: ', self.telefono)
     
+
