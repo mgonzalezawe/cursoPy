@@ -1,7 +1,4 @@
 class Persona:
-    """nombre = None
-    edad = None
-    telefono = None"""
     def __init__(self, nom, ed, tel):
         self.nombre = nom
         self.edad = ed
