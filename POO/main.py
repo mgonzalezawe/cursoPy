@@ -11,8 +11,11 @@ per1.getDatos()"""
 
 player1 = Player('grover', 40)
 player2 = Player('Cindy', 30)
-print(player1)
-print(player2)
+player3 = Player()
+
+print(player1.nombre)
+print(Player.menbresia)
+print(player3.nombre)
 
 
 """print(type(None))
