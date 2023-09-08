@@ -21,5 +21,12 @@ class Player:
         else:
             print('No')
     @classmethod
-    def agregar
+    def agregar_datos(cls, score):
+        #return score
+        return cls('Pedro', 25)
+    
+    @staticmethod
+    def agregar_datos2(score):
+        return score
+        
 
