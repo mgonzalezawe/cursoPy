@@ -4,9 +4,9 @@ class Player:
     #Atriburto de obejto de clase
     menbresia = True
     
-    def __init__(selft, nombre= 'anonimo', edad= 0):
-        selft.nombre = nombre
-        selft.edad = edad
+    def __init__(self, nombre= 'anonimo', edad= 0): #por default si pongo = algo
+        self.nombre = nombre
+        self.edad = edad
         
     def ejecutar(self):
         print('run')
